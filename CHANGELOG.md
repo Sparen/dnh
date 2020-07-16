@@ -7,6 +7,37 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## [1.10.0] - 2020-02-06
+
+### Changed
+
++ Updated the ph3 function reference
++ Updated dependencies
+
+### Fixed
+
++ Fixed the `alternative` snippet (contribution by user ooa113y)
+
+## [1.9.0] - 2019-10-24
+
+### Changed
+
++ Updated the ph3 function reference
++ Updated dependencies
+
+## [1.8.0] - 2019-07-18
+
+### Changed
+
++ Updated dependencies
+
+## [1.7.0] - 2019-07-05
+
+### Changed
+
++ Updated ph3 function reference
++ Updated dependencies
+
 ## [1.6.0] - 2019-05-07
 
 ### Changed
@@ -98,7 +129,11 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 + Initial release
 
-[Unreleased]: https://github.com/mserajnik/dnh/compare/1.6.0...develop
+[Unreleased]: https://github.com/mserajnik/dnh/compare/1.10.0...develop
+[1.10.0]: https://github.com/mserajnik/dnh/compare/1.9.0...1.10.0
+[1.9.0]: https://github.com/mserajnik/dnh/compare/1.8.0...1.9.0
+[1.8.0]: https://github.com/mserajnik/dnh/compare/1.7.0...1.8.0
+[1.7.0]: https://github.com/mserajnik/dnh/compare/1.6.0...1.7.0
 [1.6.0]: https://github.com/mserajnik/dnh/compare/1.5.1...1.6.0
 [1.5.1]: https://github.com/mserajnik/dnh/compare/1.5.0...1.5.1
 [1.5.0]: https://github.com/mserajnik/dnh/compare/1.4.0...1.5.0
